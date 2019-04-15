@@ -1,7 +1,7 @@
-package main
+package sss
 
 import "fmt"
 
-func main() {
+func hello() {
 	fmt.Println("vim-go2")
 }
